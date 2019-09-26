@@ -1,12 +1,1 @@
 # Duanee
-PC Specs & Peripherals
-i3 8100 CPU @ 3.60hz
-4gb Ram Team Elite+ 2400hz
-Gt 640 2gb inno3d
-HDD 1TB WD
-MOBO: MSI H310M PRO-VH 
-PSU: Thermaltake 550 watts Lite Series 
-Huntkey Generic Monitor 21.5 inches 60hz-75hz
-Keyboard: Cooler Master CK350 (outemu blue switch)
-Mouse: Fantech x9 Thor
-Headphone: Rakk Karul RGB
